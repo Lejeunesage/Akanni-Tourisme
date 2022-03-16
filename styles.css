@@ -110,7 +110,7 @@ h3
 #main-image 
 {
     height: 580px;
-    background:url('image/main.jpg') center;
+    background:url('main.jpg') center;
 }
 
 #main-image h2
@@ -170,17 +170,17 @@ h3
 
 #step-1
 {
-    background: url('image/steps-icon-1.png') no-repeat top center;
+    background: url('steps-icon-1.png') no-repeat top center;
 }
 
 #step-2
 {
-    background: url('image/steps-icon-2.png') no-repeat top center;
+    background: url('/steps-icon-2.png') no-repeat top center;
 }
 
 #step-3
 {
-    background: url('image/steps-icon-3.png') no-repeat top center;
+    background: url('steps-icon-3.png') no-repeat top center;
 }
 .clear
 {
